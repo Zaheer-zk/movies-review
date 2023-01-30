@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+.header__title {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(37, 37, 176);
+    color: #ccc;
+    padding: 0;
+    margin: 0;
+}
